@@ -4,8 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![@abhiyadav2345's Holopin board](https://holopin.me/abhiyadav2345)](https://holopin.io/@abhiyadav2345)
-<!---
-abhiyadav2345/abhiyadav2345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![An image of @abhiyadav2345's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhiyadav2345)](https://holopin.io/@abhiyadav2345)
